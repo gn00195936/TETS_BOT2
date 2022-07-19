@@ -21,7 +21,7 @@ async def on_ready():
 @client.command()
 # 當有訊息時
 async def 決戰香腸伯(ctx):
-    client.channel = client.get_channel(970503912564076574)
+    client.channel = client.get_channel(998867242513084487)
 
     pic = ['6',
            '15',
@@ -134,4 +134,4 @@ async def 決戰香腸伯(ctx):
 
 
 # TOKEN在剛剛Discord Developer那邊「BOT」頁面裡面
-client.run('OTk4Nzg3MDkyNjIyNjEwNDcy.GnaeP2.571oGz34C0JquzTOSYn5PlNlWQbdoidpc4QsKg')
+client.run('OTk4Nzg3MDkyNjIyNjEwNDcy.Gp-Qng.KI_bpsyoZORwi7d09Yc5RCdZaVKxH5Qj8LcONU')
